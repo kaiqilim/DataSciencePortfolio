@@ -1,2 +1,2 @@
 # Welcome!
-A collection of data science projects that I've worked on and find interesting.
+A collection of data science projects that I have worked on and find interesting.
