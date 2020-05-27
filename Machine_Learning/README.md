@@ -1,2 +1,3 @@
-# Welcome!
-A collection of data science projects that I have worked on.
+# Facial Keypoints Detection
+
+### Matthew Brimmer, Kai Qi Lim, Rodrigo Luna, Joe Mercer
