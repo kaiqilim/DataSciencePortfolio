@@ -1,1 +1,3 @@
-# f19-final-project-f19-team-10
+# Criteo Click-through-rate Prediction
+
+### Kai Qi Lim, Chun-Jen (Curtis) Lin, Youzhi (Chloe) Wu, Eddie Zhu
