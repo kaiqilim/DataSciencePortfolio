@@ -9,3 +9,6 @@ Challenges encountered in this project included variations in position of the fa
 The final model is a Keras 5 layers of 2D Convolution network with Maxpooling2D as filtering and three final dense layers to estimate parameters. The RMSE achieved was 13.4 compared to baseline model of 77.8.
 
 ![sample prediction](/images/predicted.png)
+
+![Image of Yaktocat]
+(https://github.com/kaiqilim/DataSciencePortfolio/blob/master/Machine_Learning/images/predicted.png)
